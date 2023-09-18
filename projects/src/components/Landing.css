@@ -1,0 +1,27 @@
+.landing_client {
+  .landing-page {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .header {
+    background-color: #d41c31;
+    color: white;
+    padding: 20px;
+  }
+
+  .block {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+
+  .block h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .block p {
+    font-size: 16px;
+  }
+}
